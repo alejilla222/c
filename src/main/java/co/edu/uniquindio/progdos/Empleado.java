@@ -33,6 +33,13 @@ public class Empleado {
 
     }
 
+      // Método para eliminar un empleado
+    public boolean EliminarEnsayo(String ensayo){
+
+        return true;
+
+    }
+
 
     // Métodos getter y setter para los atributos
     public String getNombre() {
